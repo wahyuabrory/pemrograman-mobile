@@ -1,18 +1,18 @@
 # 📱Mobile Programming Course
 
-Syllabus
-- [Module 1: Introduction to Mobile Programming and Installation Requirements](#🙋🏻‍♂️module-1-introduction-to-mobile-programming-and-installation-requirements)
-- [M-Bussiness, eMarketing and mMarketing]()
-- [Karakteristik Mobile HCI]()
-- [Arsitekur dan Teknologi Flutter]()
-- [Pemrograman Dasar Dart]()
-- [Widget Dasar Flutter]()
-- [Layout dan Navigasi]()
-- [ETS]()
+## Syllabus
+### * [🙋🏻‍♂️Module 1: Introduction to Mobile Programming and Installation Requirements](#module-1-introduction-to-mobile-programming-and-installation-requirements)
+### * [📱Module 2: M-Business, eMarketing and mMarketing](#module-2-m-business-emarketing-and-mmarketing)
+### * [🎯Module 3: Introduction to Dart and Flutter](#module-3-dart-and-flutter)
+### * [🏛️Module 4: Arsitektur dan Teknologi Flutter]()
+### * [Module 5: Pemrograman Dasar Dart]()
+### * [Module 6: Widget Dasar Flutter]()
+### * [Module 7: Layout dan Navigasi]()
+### * [ETS]()
 
 ## 🔗Resource
 - [📱Flutter](https://docs.flutter.dev/cookbook)
-- [📺Flutter youtube](https://www.youtube.com/flutterdev)
+- [📺Flutter YouTube](https://www.youtube.com/flutterdev)
 - [🎯Dart Programming](https://dart.dev/guides/language/language-tour)
 - [🤓Flutter for Beginners](https://github.com/PacktPublishing/Flutter-for-Beginners-Second-Edition)
 - Dicoding Indonesia
@@ -26,9 +26,10 @@ This repository is a collection of materials for the course `Mobile Programming`
 - Course provided by Dr. Eng. Agussalim, M.T.
 
 ## 📔Syllabus
+> [!NOTE] 
 > The syllabus isn't final and may be updated during the course.
 
-### [🙋🏻‍♂️Module 1: Introduction to Mobile Programming and Installation Requirements](01-intro-to-mobile/)
+### [Module 1: Introduction to Mobile Programming and Installation Requirements](01-intro-to-mobile/)
 - Course overview
 - Grading terms
 - Final project requirements
@@ -38,4 +39,17 @@ This repository is a collection of materials for the course `Mobile Programming`
 - What's flutter
 - Installation requirements
 
+### [Module 2: M-Business, eMarketing and mMarketing](02-business-mobile/)
+- Core features
+- Final project requirements
+- Assignment for next week
+
+### [Module 3: Dart and Flutter](03-dart-flutter/)
+- Introduction to Dart
+- Running Dart
+- Control Flow
+- Data Types
+- Function & Method
+- Arrow Syntax
+- Practical Code
 

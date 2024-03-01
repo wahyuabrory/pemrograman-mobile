@@ -98,10 +98,10 @@ The result should be like this
 
 You can configure your email and username using
 ```bash
-git config --global user.name"your username"
-git config --global user.email"email@email.com"
+git config --global user.name "your username"
+git config --global user.email "email@email.com"
 ```
-> Ensure that your `username` and `email` on your local machine match those of your GitHub account. 
+> Ensure that your `username` and `email` on your local machine match those of your GitHub account. And don't forget to remove the `""` symbol.
 
 ### 🛠️💻VSCode Installation and Flutter Extension
 Install VSCode from this [link](https://code.visualstudio.com/download) and don't forget to install Flutter extension 
@@ -115,7 +115,7 @@ Instead, create `src` folder in `C:` and then use this bash command
 ```bash
 git clone https://github.com/flutter/flutter.git -b stable
 ```
-Update ur Windows PATH to `C:\src\flutter\bin`
+Update your Windows PATH to `C:\src\flutter\bin`
 
 ### 🤖Android Studio and SDK
 Download and install the latest version of Android Studio through this [link](https://developer.android.com/studio), afterward run `Android Studio Setup wizard`. It'll install 
@@ -123,9 +123,14 @@ Download and install the latest version of Android Studio through this [link](ht
 2. Android SDK Command-line Tools
 3. Android SDK Build Tools
 
-Run and enter `y`
+Don't forget to update Android SDK by installing `Android Command Line Tools` by following this 
+![sdk-manager](../assets/sdk-manager.png)
+
+![sdktools-commandline](../assets/sdktools-cmdline.png)
+
+Next step we run this in terminal and enter `y`
 ```bash
-flutter doctor –android-licenses
+flutter doctor -–android-licenses
 ```
 
 After completing several installations🤯, run 
@@ -134,12 +139,6 @@ flutter doctor
 ```
 to ensure that the installation process ran smoothly.
 ![flutter-doctor](../assets/flutter-doctor.png)
-
-
-Don't forget to update Android SDK by installing `Android Command Line Tools` by following this 
-![sdk-manager](../assets/sdk-manager.png)
-
-![sdktools-commandline](../assets/sdktools-cmdline.png)
 
 Aaannnd Well Done🥳🙌🏻, you've completed the installation process. Now you can start to create your first flutter project.
 
