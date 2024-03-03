@@ -621,7 +621,7 @@ void main() {
 
 #### Map and Where
 
-1. Hasil code berikut adalah:
+1. The result of the following code is:
 
 ```dart
   List<int> l1 = [1, 2, 3];
@@ -650,7 +650,7 @@ void main() {
 
 #### Collection if dan Collection for
 
-1. Hasil code berikut adalah:
+1. The result of the following code is:
 
 ```dart
 List<int> x1 = [1, 2, 3];
@@ -666,7 +666,7 @@ List<String> s1 = ["satu", "dua", "sebelas"];
 [4, 3, 7] // 'satu' panjangnya 'empat' etc
 ```
 
-> [!TIP] gunakan str.length untuk memperoleh panjang string
+> [!TIP] Use str.length to get the length of the string
 
 3. Create a list of squares of even elements from the input list.
 
@@ -676,7 +676,7 @@ input: [1,2,3,4,5,6];
 output: [4, 16, 36]
 ```
 
-> [!TIP] gunakan operator % untuk modulo, contoh 4%2 = 0; 3%2 = 1
+> [!TIP] Use `%` operator to get the even number.
 
 #### Arrow Syntax
 
@@ -700,13 +700,13 @@ output: [4, 16, 36]
 
 ```dart
 List<Map<String, dynamic>> pegawai = [
- {"nama": "budi", "gaji": 5},
- {"nama": "wati", "gaji": 17},
- ];
+  {"nama": "budi", "gaji": 5},
+  {"nama": "wati", "gaji": 17},
+];
 
 // Output list
- List<Map<String, dynamic>> pajak = [
- {"nama": "budi", "gaji": 5, "pajak":0.15},
- {"nama": "wati", "gaji": 17, "pajak":0.20},
- ];
+List<Map<String, dynamic>> pajak = [
+  {"nama": "budi", "gaji": 5, "pajak": 0.15},
+  {"nama": "wati", "gaji": 17, "pajak": 0.20},
+];
 ```
