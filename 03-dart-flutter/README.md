@@ -57,7 +57,7 @@ Dart can be ran online or offline
 
 ### Online
 
-Using https://dartpad.dev/
+Using <https://dartpad.dev/>
 Here's some example and run sample :
 
 ```dart
@@ -629,6 +629,7 @@ void main() {
 ```
 
 2. Based on the example above, combine the uppercase transformation and selection process in one statement. After converting to uppercase, select only those containing "UD".
+
 ```dart
 void main() {
   var listMhs = ["Wati", "Budi", "budi"];
@@ -644,6 +645,7 @@ void main() {
   print(listMhs3);
 }
 ```
+
 3. Create a map that transforms the elements of a list into their squares. For example, if the input is [1, 2, 3], the mapping result should be [1, 4, 9].
 
 #### Collection if dan Collection for
