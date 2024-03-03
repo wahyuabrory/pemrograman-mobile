@@ -9,6 +9,7 @@ void main() {
     for (var p in pegawai)
       {
         "Nama": p["Nama"],
+        "Gaji": p["Gaji"],
         "Pajak": p["Gaji"] < 10 ? p["Gaji"] * 0.15 : p["Gaji"] * 0.20
       }
   ];
@@ -16,4 +17,4 @@ void main() {
   print(pajak);
 }
 
-// Output: [{Nama: Budi, Pajak: 0.75}, {Nama: Wati, Pajak: 3.4000000000000004}]
+// Output: [{Nama: Budi, Gaji: 5, Pajak: 0.75}, {Nama: Wati, Gaji: 17, Pajak: 3.4000000000000004}]
