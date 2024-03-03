@@ -629,6 +629,21 @@ void main() {
 ```
 
 2. Based on the example above, combine the uppercase transformation and selection process in one statement. After converting to uppercase, select only those containing "UD".
+```dart
+void main() {
+  var listMhs = ["Wati", "Budi", "budi"];
+  print("List 1:");
+  print(listMhs);
+  // buat list baru, yang isinya uppercase dari list lama
+  print("List 2:");
+  var listMhs2 = listMhs.map((mhs) => mhs.toUpperCase()).toList();
+  print(listMhs2);
+  // buat list baru yang isinya nama yang mengandung "ud"
+  print("List 3:");
+  var listMhs3 = listMhs.where((mhs) => mhs.contains("ud")).toList();
+  print(listMhs3);
+}
+```
 3. Create a map that transforms the elements of a list into their squares. For example, if the input is [1, 2, 3], the mapping result should be [1, 4, 9].
 
 #### Collection if dan Collection for
