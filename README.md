@@ -1,10 +1,10 @@
 # 📱Mobile Programming Course
 
 ## Syllabus
-* [🙋🏻‍♂️Module 1: Introduction to Mobile Programming and Installation Requirements](#-module-1-introduction-to-mobile-programming-and-installation-requirements)
-* [📱Module 2: M-Business, eMarketing and mMarketing](#-module-2-m-business-emarketing-and-mmarketing)
- * [🎯Module 3: Introduction to Dart](#-module-3-dart)
- * [🏛️Module 4: Flutter Widget and Routing](#-module-4-flutter-widget-and-routing)
+* [🙋🏻‍♂️ Module 1: Introduction to Mobile Programming and Installation Requirements](#-module-1-introduction-to-mobile-programming-and-installation-requirements)
+* [📱 Module 2: M-Business, eMarketing and mMarketing](#-module-2-m-business-emarketing-and-mmarketing)
+ * [🎯 Module 3: Introduction to Dart](#-module-3-dart)
+ * [🏛️ Module 4: Flutter Widget and Routing](#-module-4-flutter-widget-and-routing)
  * [Module 5: Pemrograman Dasar Dart]()
  * [Module 6: Widget Dasar Flutter]()
  * [Module 7: Layout dan Navigasi]()
