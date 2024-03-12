@@ -1,14 +1,14 @@
 # 📱Mobile Programming Course
 
 ## Syllabus
-### * [🙋🏻‍♂️Module 1: Introduction to Mobile Programming and Installation Requirements](#module-1-introduction-to-mobile-programming-and-installation-requirements)
-### * [📱Module 2: M-Business, eMarketing and mMarketing](#module-2-m-business-emarketing-and-mmarketing)
-### * [🎯Module 3: Introduction to Dart and Flutter](#module-3-dart-and-flutter)
-### * [🏛️Module 4: Arsitektur dan Teknologi Flutter]()
-### * [Module 5: Pemrograman Dasar Dart]()
-### * [Module 6: Widget Dasar Flutter]()
-### * [Module 7: Layout dan Navigasi]()
-### * [ETS]()
+* [🙋🏻‍♂️Module 1: Introduction to Mobile Programming and Installation Requirements](#-module-1-introduction-to-mobile-programming-and-installation-requirements)
+* [📱Module 2: M-Business, eMarketing and mMarketing](#-module-2-m-business-emarketing-and-mmarketing)
+ * [🎯Module 3: Introduction to Dart](#-module-3-dart)
+ * [🏛️Module 4: Flutter Widget and Routing](#-module-4-flutter-widget-and-routing)
+ * [Module 5: Pemrograman Dasar Dart]()
+ * [Module 6: Widget Dasar Flutter]()
+ * [Module 7: Layout dan Navigasi]()
+ * [ETS]()
 
 ## 🔗Resource
 - [📱Flutter](https://docs.flutter.dev/cookbook)
@@ -29,7 +29,7 @@ This repository is a collection of materials for the course `Mobile Programming`
 > [!NOTE] 
 > The syllabus isn't final and may be updated during the course.
 
-### [Module 1: Introduction to Mobile Programming and Installation Requirements](01-intro-to-mobile/)
+### [🙋🏻‍♂️ Module 1: Introduction to Mobile Programming and Installation Requirements](01-intro-to-mobile/)
 - Course overview
 - Grading terms
 - Final project requirements
@@ -39,12 +39,12 @@ This repository is a collection of materials for the course `Mobile Programming`
 - What's flutter
 - Installation requirements
 
-### [Module 2: M-Business, eMarketing and mMarketing](02-business-mobile/)
+### [📱 Module 2: M-Business, eMarketing and mMarketing](02-business-mobile/)
 - Core features
 - Final project requirements
 - Assignment for next week
 
-### [Module 3: Dart and Flutter](03-dart-flutter/)
+### [🎯 Module 3: Dart](03-dart-flutter/)
 - Introduction to Dart
 - Running Dart
 - Control Flow
@@ -52,4 +52,28 @@ This repository is a collection of materials for the course `Mobile Programming`
 - Function & Method
 - Arrow Syntax
 - Practical Code
+
+### [🏛️ Module 4: Flutter Widget and Routing](04-widget/)
+- Introduction to Flutter
+- Creating a new Flutter project and Running the app
+- Understanding Widget and Element
+- Stateless and Stateful Widget
+- Hello World App
+- Image on Flutter app
+- Floating Action
+- Text Button
+- Icon Button
+- Checkbox
+- Segmented Button
+- Radio Button
+- Filter Chips
+- Radio Button
+- Switch
+- Slider
+- Card and ListTile
+- Form Validator
+- Snack Bar
+- Alert Dialog
+- Practice Sample
+- To-do
 
