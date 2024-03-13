@@ -22,8 +22,8 @@ This session we'll learn about basic Dart.
   - [Const and Final](#const-and-final)
   - [Enum](#enum)
   - [Null Safety](#null-safety)
-- [🎮Function and Method](#35----function-and-method)
-- [🔄Others](#36----others)
+- [🔧Function and Method](#35----function-and-method)
+- [❓Others](#36----others)
   - [Arrow Syntax](#arrow-syntax)
   - [Conditional Ternary Operator](#conditional-ternary-operator)
   - [Practical Work](#practical-work)
@@ -536,7 +536,7 @@ void main() {
 }
 ```
 
-## 3.5 - Function and Method
+## 3.5 - 🔧 Function and Method
 
 Always use simply object, it's better to use function and method to make the code more readable and maintainable. And it often used in flutter.
 
@@ -551,7 +551,7 @@ void main() {
 }
 ```
 
-## 3.6 - Others
+## 3.6 - ❓ Others
 
 ### Arrow Syntax
 
