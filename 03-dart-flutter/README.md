@@ -386,8 +386,7 @@ void main() {
 ```
 
 > [!TIP]
-> Collection if dapat digantikan dengan ternary operator
-> List x1 = [1, x > 10? 100:-1, 500];
+> Collection if dapat digantikan dengan ternary operator List x1 = [1, x > 10? 100:-1, 500];
 
 - Collection for
 
@@ -517,7 +516,8 @@ void main() {
 }
 ```
 
-> [!IMPORTANT] To address this, the `!` operator can be used, although it's error-prone. It's advisable to avoid relying on this solution whenever possible.
+> [!IMPORTANT]
+> To address this, the `!` operator can be used, although it's error-prone. It's advisable to avoid relying on this solution whenever possible.
 
 ```dart
 void main() {
@@ -666,7 +666,8 @@ List<String> s1 = ["satu", "dua", "sebelas"];
 [4, 3, 7] // 'satu' panjangnya 'empat' etc
 ```
 
-> [!TIP] Use str.length to get the length of the string
+> [!TIP]
+> Use str.length to get the length of the string
 
 3. Create a list of squares of even elements from the input list.
 

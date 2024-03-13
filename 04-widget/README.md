@@ -720,7 +720,8 @@ ElevatedButton(
 
 ### 1. Create an app that accepts the length and width of a rectangle, then displays the area and perimeter of the rectangle. and perimeter of the rectangle.
 
-> [!TIP] Use int.parse(string) or double.parse(string) to convert string to integer or double.
+> [!TIP] 
+> Use int.parse(string) or double.parse(string) to convert string to integer or double.
 
 [1. Rectangle Area and Perimeter](../04-widget/widget_practice/lib/1-areas-circumference.dart)
 
