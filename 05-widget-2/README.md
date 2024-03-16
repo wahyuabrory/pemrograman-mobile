@@ -1,7 +1,17 @@
-# UI & Routing part 2
+# 🖼️🚀 UI & Routing part 2
+
+In this week we'll talk about full screen dialog, listview, layout, navigation widget, appbar, routing, and notifications. We'll also do some practice to make sure we understand the material.
+
+## 🔗 Quick Link
+
+- [🔢 Praktikum](practical_ui_routing_2/lib/)
+- [🏃‍♀️ Practice](question_practice_ui_routing_2/lib/)
+
+---
 
 <!-- TOC -->
 
+- [🔗 Quick Link](#-quick-link)
 - [5.1 -❗Full Screen Dialog](#51--full-screen-dialog)
 - [5.2 - 🖼️ ListView](#52---️-listview)
   - [ListView Builder()](#listview-builder)
@@ -30,11 +40,10 @@
   - [Local Notifications](#local-notifications)
   - [Push Notifications](#push-notifications)
 - [5.8 - 🔍 Reference](#58----reference)
+- [5.9 - 🏃‍♀️ Practice](#59---️-practice)
 <!-- /TOC -->
 
-## 🔗 Quick Link
-- [🔢 Praktikum](practical_ui_routing_2/lib/)
-- [🏃‍♀️ Practice]()
+---
 
 ## 5.1 -❗Full Screen Dialog
 
@@ -179,6 +188,9 @@ Container(
 
 // We can use `Container( width:double.infinity,` to make container size filling screen width.
 ```
+
+> [!NOTE]
+> Container vs SizedBox are both similar, Container can adjust shape, padding, margin, decoration, alignment while SizedBox is only size. For whitespace, it is recommended to use SizedBox because it is lighter than Container.
 
 ### Align
 
@@ -838,3 +850,43 @@ https://pub.dev/packages/firebase_messaging
 2. Bailey, Thomas. Flutter for Beginners: An introductory guide to building cross-platform mobile applications with Flutter 2.5 and Dart, 2nd Edition
 
 3. https://api.flutter.dev
+
+## 5.9 - 🏃‍♀️ Practice
+
+1.  Use Cards to display photos, names and hobbies (bottom image) using `Listview.Builder`. Titles become names, subtitles are hobbies. Names and hobbies are stored in the form of `Map<String, String>`
+
+    ![card-practice](../assets/card-practice.png)
+
+2.  Create gridView implementation
+
+    ![gridview-practice-basic](../assets/gridview-practice-basic.png)
+
+    as a bonus, make them look like this
+
+    ![gridview-practice](../assets/gridview-practice.png)
+
+3.  Recreate twitter profile page  
+    ![twitter-basic](../assets/twitter-basic.png)
+
+    > [!TIP]
+    > Use the BoxFit attribute in the image and width:double.infinity for the container
+
+    Make them as much as this
+
+    ![twitter-real](../assets/twitter-real.png)
+
+4.  Recrate PeduliLindungi App
+
+    ![pedulilindungi-basic](../assets/pedulilindungi-basic.png)
+
+    Make them like this
+
+    ![pedulilindungi-real](../assets/pedulilindungi-real.png)
+
+5.  Create Tab Navigation like this:
+
+    ![for-you-practice](../assets/for-you-practice.png)
+
+    and the Following tab look like this:
+
+    ![following-tab-practice](../assets/following-tab-practice.png)
