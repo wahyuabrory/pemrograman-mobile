@@ -60,26 +60,12 @@ This repository is a collection of materials for the course `Mobile Programming`
 - Practical Code
 
 ### [🏛️ Module 4: Flutter Widget and Routing](04-widget/)
-
 - Introduction to Flutter
-- Creating a new Flutter project and Running the app
-- Understanding Widget and Element
-- Stateless and Stateful Widget
-- Hello World App
-- Image on Flutter app
-- Floating Action
-- Text Button
-- Icon Button
-- Checkbox
-- Segmented Button
-- Radio Button
-- Filter Chips
-- Radio Button
-- Switch
-- Slider
-- Card and ListTile
+- Flutter Structure Project
+- Widget
+- Simple Hello World
 - Form Validator
-- Snack Bar
+- Snackbar
 - Alert Dialog
 - Practice Sample
 - To-do
