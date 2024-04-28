@@ -7,8 +7,10 @@
 - [🎯 Module 3: Introduction to Dart](#-module-3-dart)
 - [🏛️ Module 4: Flutter Widget and Routing](#%EF%B8%8F-module-4-flutter-widget-and-routing)
 - [🚀 Module 5: Flutter Widget and Routing part 2](#-module-5-flutter-widget-and-routing-part-2)
-- [ETS]()
-
+- [🥐 Module 6: Basic Flutter Implementation](#-module-6-basic-flutter-implementation)
+- [🎓 Mid-term Project](#-mid-term-project)
+- [⚡ Module 8: FastAPI](#module-8-fastapi)
+- [📡 Module 9: Flutter Web Service](#module-9-flutter-web-service)
 
 ## 🔗Resource
 
@@ -60,6 +62,7 @@ This repository is a collection of materials for the course `Mobile Programming`
 - Practical Code
 
 ### [🏛️ Module 4: Flutter Widget and Routing](04-widget/)
+
 - Introduction to Flutter
 - Flutter Structure Project
 - Widget
@@ -71,6 +74,7 @@ This repository is a collection of materials for the course `Mobile Programming`
 - To-do
 
 ### [🚀 Module 5: Flutter Widget and Routing part 2](05-widget-2/)
+
 - Full Screen Dialog
 - List View
 - Layout
@@ -78,3 +82,29 @@ This repository is a collection of materials for the course `Mobile Programming`
 - AppBar
 - Routing
 - Notifications
+
+### [🥐 Module 6: Basic Flutter Implementation](06-hands-on-basic-fluter/)
+
+- Basic Flutter Implementation on Recipe App
+- Basic Flutter Implementation on Recipe App part 2
+
+### [🎓 Mid-term Project](07-mid-term-project/)
+
+- Mid-term Project on creating Faculty of Ilmu Social and Political Science (FISIP) UPN "Veteran" East Java University App
+
+### [⚡ Module 8: FastAPI](08-fastapi/)
+
+- Introduction to RestAPI
+- Why FastAPI
+- FastAPi Installation
+- Hello World FastAPI
+- FastAPI Get, Post, Put, Patch,Delete
+- Best Practice for FastAPI
+- Deploy FastAPI to Google Cloud Platform
+
+### [📡 Module 9: Flutter Web Service](09-web-service-connection/)
+
+- JSON & Serialization
+- GET, POST, PUT, PATCH, DELETE
+- File Image and POST Backend
+- ListView Builder and Future Builder
