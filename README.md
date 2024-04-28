@@ -9,8 +9,8 @@
 - [🚀 Module 5: Flutter Widget and Routing part 2](#-module-5-flutter-widget-and-routing-part-2)
 - [🥐 Module 6: Basic Flutter Implementation](#-module-6-basic-flutter-implementation)
 - [🎓 Mid-term Project](#-mid-term-project)
-- [⚡ Module 8: FastAPI](#module-8-fastapi)
-- [📡 Module 9: Flutter Web Service](#module-9-flutter-web-service)
+- [⚡ Module 8: FastAPI](#-module-8-fastapi)
+- [📡 Module 9: Flutter Web Service](#-module-9-flutter-web-service)
 
 ## 🔗Resource
 
